@@ -1,0 +1,388 @@
+{
+  "subject": "Physics",
+  "class": "11",
+  "units": [
+    {
+      "unitName": "Mechanics I",
+      "chapters": [
+        {
+          "id": "PHY_C11_01",
+          "name": "Units and Measurements",
+          "priority": "A",
+          "totalLectures": 14,
+          "topics": [
+            {
+              "topic": "Introduction",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "Physical Quantities",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "System of Units",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Dimensions of Physical Quantities",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "Dimensional Constants Dimensional Variables",
+              "lectureNumber": 5
+            },
+            {
+              "topic": "Non Dimensional Constants Non Dimensional Variables",
+              "lectureNumber": 6
+            },
+            {
+              "topic": "Dimensional Analysis and its Applications",
+              "lectureNumber": 7
+            },
+            {
+              "topic": "Significant Figures",
+              "lectureNumber": 8
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 9
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 10
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 11
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 12
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 13
+            },
+            {
+              "topic": "Errors in Measurement",
+              "lectureNumber": 14
+            }
+          ]
+        },
+        {
+          "id": "PHY_C11_02",
+          "name": "Mathematical Tools",
+          "priority": "A",
+          "totalLectures": 11,
+          "topics": [
+            {
+              "topic": "Algebra",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "AP series",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "GP series",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Binomial Expression",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "approximation",
+              "lectureNumber": 5
+            },
+            {
+              "topic": "Functions",
+              "lectureNumber": 6
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 7
+            },
+            {
+              "topic": "Differentiation and Integration",
+              "lectureNumber": 8
+            },
+            {
+              "topic": "Differentiation and Integration",
+              "lectureNumber": 9
+            },
+            {
+              "topic": "Differentiation and Integration",
+              "lectureNumber": 10
+            },
+            {
+              "topic": "Differentiation and Integration",
+              "lectureNumber": 11
+            }
+          ]
+        },
+        {
+          "id": "PHY_C11_03",
+          "name": "Motion in a Straight Line",
+          "priority": "A",
+          "totalLectures": 14,
+          "topics": [
+            {
+              "topic": "Introduction",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "\"Concept of position",
+              "lectureNumber": null
+            },
+            {
+              "topic": "Speed",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Velocity",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "Acceleration",
+              "lectureNumber": 5
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 6
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 7
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 8
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 9
+            },
+            {
+              "topic": "Graphs",
+              "lectureNumber": 10
+            },
+            {
+              "topic": "Motion with constant acceleration (uniformly acceleration motion)",
+              "lectureNumber": 11
+            },
+            {
+              "topic": "Motion with variable acceleration",
+              "lectureNumber": 12
+            },
+            {
+              "topic": "Motion with variable acceleration",
+              "lectureNumber": 13
+            },
+            {
+              "topic": "Relative motion in one dimension only",
+              "lectureNumber": 14
+            }
+          ]
+        },
+        {
+          "id": "PHY_C11_04",
+          "name": "Motion in a Plane",
+          "priority": "A",
+          "totalLectures": 17,
+          "topics": [
+            {
+              "topic": "Introduction",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "Scalars and Vectors",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "Scalars and Vectors",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Scalars and Vectors",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "Motion in a plane",
+              "lectureNumber": 5
+            },
+            {
+              "topic": "Projectile Motion",
+              "lectureNumber": 6
+            },
+            {
+              "topic": "Projectile Motion",
+              "lectureNumber": 7
+            },
+            {
+              "topic": "Projectile Motion",
+              "lectureNumber": 8
+            },
+            {
+              "topic": "Motion in a plane",
+              "lectureNumber": 9
+            },
+            {
+              "topic": "Relative Velocity",
+              "lectureNumber": 10
+            },
+            {
+              "topic": "Relative Velocity",
+              "lectureNumber": 11
+            },
+            {
+              "topic": "Relative Velocity",
+              "lectureNumber": 12
+            },
+            {
+              "topic": "Circular motion",
+              "lectureNumber": 13
+            },
+            {
+              "topic": "Circular motion",
+              "lectureNumber": 14
+            },
+            {
+              "topic": "Circular motion",
+              "lectureNumber": 15
+            },
+            {
+              "topic": "Circular motion",
+              "lectureNumber": 16
+            },
+            {
+              "topic": "Circular motion",
+              "lectureNumber": 17
+            }
+          ]
+        },
+        {
+          "id": "PHY_C11_05",
+          "name": "Laws of Motion",
+          "priority": "A",
+          "totalLectures": 15,
+          "topics": [
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 5
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 6
+            },
+            {
+              "topic": "Newton's Laws of motion",
+              "lectureNumber": 7
+            },
+            {
+              "topic": "Spring",
+              "lectureNumber": 8
+            },
+            {
+              "topic": "Pseudo Force",
+              "lectureNumber": 9
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 10
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 11
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 12
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 13
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 14
+            },
+            {
+              "topic": "Friction",
+              "lectureNumber": 15
+            }
+          ]
+        },
+        {
+          "id": "PHY_C11_06",
+          "name": "Circular Motion",
+          "priority": "A",
+          "totalLectures": 5,
+          "topics": [
+            {
+              "topic": "Centripital Acceleration",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "Tangential Acceleration",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "Dynamics of Circular Motion",
+              "lectureNumber": 3
+            },
+            {
+              "topic": "Banking of Road Conical pendulum",
+              "lectureNumber": 4
+            },
+            {
+              "topic": "Banking of Road Conical pendulum",
+              "lectureNumber": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "Mechanics II",
+      "chapters": [
+        {
+          "id": "PHY_C11_07",
+          "name": "Centre of Mass & System of Particles",
+          "priority": "A",
+          "totalLectures": 3,
+          "topics": [
+            {
+              "topic": "COM",
+              "lectureNumber": 1
+            },
+            {
+              "topic": "COM",
+              "lectureNumber": 2
+            },
+            {
+              "topic": "COM",
+              "lectureNumber": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

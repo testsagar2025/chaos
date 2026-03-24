@@ -1,0 +1,167 @@
+{
+  "subject": "Physics",
+  "class": "11",
+  "units": [
+    {
+      "unitName": "Mechanics I - Kinematics",
+      "chapters": [
+        {
+          "id": "PHY_C11_01",
+          "name": "Units and Measurements",
+          "priority": "A",
+          "totalLectures": 14,
+          "topics": [
+            { "topic": "Introduction", "lectureNumber": 1 },
+            { "topic": "Physical Quantities", "lectureNumber": 2 },
+            { "topic": "System of Units", "lectureNumber": 3 },
+            { "topic": "Dimensions of Physical Quantities", "lectureNumber": 4 },
+            { "topic": "Dimensional Constants & Variables", "lectureNumber": 5 },
+            { "topic": "Non Dimensional Constants & Variables", "lectureNumber": 6 },
+            { "topic": "Dimensional Analysis and Applications", "lectureNumber": 7 },
+            { "topic": "Significant Figures", "lectureNumber": 8 },
+            { "topic": "Errors in Measurement - Part 1", "lectureNumber": 9 },
+            { "topic": "Errors in Measurement - Part 2", "lectureNumber": 10 },
+            { "topic": "Errors in Measurement - Part 3", "lectureNumber": 11 },
+            { "topic": "Errors in Measurement - Part 4", "lectureNumber": 12 },
+            { "topic": "Errors in Measurement - Part 5", "lectureNumber": 13 },
+            { "topic": "Errors in Measurement - Part 6", "lectureNumber": 14 }
+          ]
+        },
+        {
+          "id": "PHY_C11_02",
+          "name": "Mathematical Tools",
+          "priority": "A",
+          "totalLectures": 11,
+          "topics": [
+            { "topic": "Algebra", "lectureNumber": 1 },
+            { "topic": "AP Series", "lectureNumber": 2 },
+            { "topic": "GP Series", "lectureNumber": 3 },
+            { "topic": "Binomial Expression", "lectureNumber": 4 },
+            { "topic": "Approximation", "lectureNumber": 5 },
+            { "topic": "Functions", "lectureNumber": 6 },
+            { "topic": "Graphs", "lectureNumber": 7 },
+            { "topic": "Differentiation & Integration - Part 1", "lectureNumber": 8 },
+            { "topic": "Differentiation & Integration - Part 2", "lectureNumber": 9 },
+            { "topic": "Differentiation & Integration - Part 3", "lectureNumber": 10 },
+            { "topic": "Differentiation & Integration - Part 4", "lectureNumber": 11 }
+          ]
+        },
+        {
+          "id": "PHY_C11_03",
+          "name": "Motion in a Straight Line",
+          "priority": "A",
+          "totalLectures": 14,
+          "topics": [
+            { "topic": "Introduction", "lectureNumber": 1 },
+            { "topic": "Position, Path Length & Displacement", "lectureNumber": 2 },
+            { "topic": "Speed", "lectureNumber": 3 },
+            { "topic": "Velocity", "lectureNumber": 4 },
+            { "topic": "Acceleration", "lectureNumber": 5 },
+            { "topic": "Graphs - Part 1", "lectureNumber": 6 },
+            { "topic": "Graphs - Part 2", "lectureNumber": 7 },
+            { "topic": "Graphs - Part 3", "lectureNumber": 8 },
+            { "topic": "Graphs - Part 4", "lectureNumber": 9 },
+            { "topic": "Graphs - Part 5", "lectureNumber": 10 },
+            { "topic": "Uniformly Accelerated Motion", "lectureNumber": 11 },
+            { "topic": "Variable Acceleration - Part 1", "lectureNumber": 12 },
+            { "topic": "Variable Acceleration - Part 2", "lectureNumber": 13 },
+            { "topic": "Relative Motion in 1D", "lectureNumber": 14 }
+          ]
+        },
+        {
+          "id": "PHY_C11_04",
+          "name": "Motion in a Plane",
+          "priority": "A",
+          "totalLectures": 17,
+          "topics": [
+            { "topic": "Introduction", "lectureNumber": 1 },
+            { "topic": "Scalars and Vectors - Part 1", "lectureNumber": 2 },
+            { "topic": "Scalars and Vectors - Part 2", "lectureNumber": 3 },
+            { "topic": "Scalars and Vectors - Part 3", "lectureNumber": 4 },
+            { "topic": "Motion in a Plane Basics", "lectureNumber": 5 },
+            { "topic": "Projectile Motion - Part 1", "lectureNumber": 6 },
+            { "topic": "Projectile Motion - Part 2", "lectureNumber": 7 },
+            { "topic": "Projectile Motion - Part 3", "lectureNumber": 8 },
+            { "topic": "Motion in a Plane Advanced", "lectureNumber": 9 },
+            { "topic": "Relative Velocity - Part 1", "lectureNumber": 10 },
+            { "topic": "Relative Velocity - Part 2", "lectureNumber": 11 },
+            { "topic": "Relative Velocity - Part 3", "lectureNumber": 12 },
+            { "topic": "Circular Motion - Part 1", "lectureNumber": 13 },
+            { "topic": "Circular Motion - Part 2", "lectureNumber": 14 },
+            { "topic": "Circular Motion - Part 3", "lectureNumber": 15 },
+            { "topic": "Circular Motion - Part 4", "lectureNumber": 16 },
+            { "topic": "Circular Motion - Part 5", "lectureNumber": 17 }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "Mechanics II - Dynamics",
+      "chapters": [
+        {
+          "id": "PHY_C11_05",
+          "name": "Laws of Motion",
+          "priority": "A",
+          "totalLectures": 15,
+          "topics": [
+            { "topic": "Newton's Laws - Part 1", "lectureNumber": 1 },
+            { "topic": "Newton's Laws - Part 2", "lectureNumber": 2 },
+            { "topic": "Newton's Laws - Part 3", "lectureNumber": 3 },
+            { "topic": "Newton's Laws - Part 4", "lectureNumber": 4 },
+            { "topic": "Newton's Laws - Part 5", "lectureNumber": 5 },
+            { "topic": "Newton's Laws - Part 6", "lectureNumber": 6 },
+            { "topic": "Newton's Laws - Part 7", "lectureNumber": 7 },
+            { "topic": "Spring Force", "lectureNumber": 8 },
+            { "topic": "Pseudo Force", "lectureNumber": 9 },
+            { "topic": "Friction - Part 1", "lectureNumber": 10 },
+            { "topic": "Friction - Part 2", "lectureNumber": 11 },
+            { "topic": "Friction - Part 3", "lectureNumber": 12 },
+            { "topic": "Friction - Part 4", "lectureNumber": 13 },
+            { "topic": "Friction - Part 5", "lectureNumber": 14 },
+            { "topic": "Friction - Part 6", "lectureNumber": 15 }
+          ]
+        },
+        {
+          "id": "PHY_C11_06",
+          "name": "Circular Motion",
+          "priority": "A",
+          "totalLectures": 5,
+          "topics": [
+            { "topic": "Centripetal Acceleration", "lectureNumber": 1 },
+            { "topic": "Tangential Acceleration", "lectureNumber": 2 },
+            { "topic": "Dynamics of Circular Motion", "lectureNumber": 3 },
+            { "topic": "Banking of Road & Conical Pendulum - Part 1", "lectureNumber": 4 },
+            { "topic": "Banking of Road & Conical Pendulum - Part 2", "lectureNumber": 5 }
+          ]
+        },
+        {
+          "id": "PHY_C11_07",
+          "name": "Work, Energy and Power",
+          "priority": "A",
+          "totalLectures": 8,
+          "topics": [
+            { "topic": "Work - Part 1", "lectureNumber": 1 },
+            { "topic": "Work - Part 2", "lectureNumber": 2 },
+            { "topic": "Work - Part 3", "lectureNumber": 3 },
+            { "topic": "Energy - Part 1", "lectureNumber": 4 },
+            { "topic": "Energy - Part 2", "lectureNumber": 5 },
+            { "topic": "Energy - Part 3", "lectureNumber": 6 },
+            { "topic": "Circular Motion Application - Part 1", "lectureNumber": 7 },
+            { "topic": "Circular Motion Application - Part 2", "lectureNumber": 8 }
+          ]
+        },
+        {
+          "id": "PHY_C11_08",
+          "name": "Centre of Mass & System of Particles",
+          "priority": "A",
+          "totalLectures": 3,
+          "topics": [
+            { "topic": "Centre of Mass - Part 1", "lectureNumber": 1 },
+            { "topic": "Centre of Mass - Part 2", "lectureNumber": 2 },
+            { "topic": "Centre of Mass - Part 3", "lectureNumber": 3 }
+          ]
+        }
+      ]
+    }
+  ]
+}
